@@ -1,0 +1,5 @@
+build
+idf-driver-esp32-usb-jtag-2021-07-15
+managed_components
+.vscode
+.devcontainer

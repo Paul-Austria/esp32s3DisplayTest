@@ -1,0 +1,6 @@
+set(SOURCES
+    ${SOURCES}
+    ${CMAKE_CURRENT_SOURCE_DIR}/MemHandler.cpp
+)
+
+set(SOURCES ${SOURCES} PARENT_SCOPE)
